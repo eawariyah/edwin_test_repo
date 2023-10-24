@@ -18,4 +18,7 @@ digitalWrite(PNP1,LOW);
 digitalWrite(PNP2,LOW);
 digitalWrite(NPN2,HIGH);
 delay(2000);
+delay(5000);
+delay(5000);
+
 }
