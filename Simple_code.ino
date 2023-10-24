@@ -1,4 +1,3 @@
-### This is my code
 int NPN1=1;
 int PNP1=2;
 int PNP2=3;
