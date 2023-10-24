@@ -1,4 +1,3 @@
-### This is my code
 int NPN1=1;
 int PNP1=2;
 int PNP2=3;
@@ -19,4 +18,7 @@ digitalWrite(PNP1,LOW);
 digitalWrite(PNP2,LOW);
 digitalWrite(NPN2,HIGH);
 delay(2000);
+delay(5000);
+delay(5000);
+
 }
